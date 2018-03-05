@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+        It creates an empty Git repository. You need to run the command so that
+        Git knows that it should starting tracking version.
