@@ -17,4 +17,9 @@ How can you use the staging area to make sure you have one commit per logical ch
         That way, even if more files were changed during the time period in question,
         only the ones that you want to commit with this commit are actually committed.
 
-        
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+        Branches are useful when you want to add new things to your code but also need to continue working
+        on the original code. That way, when you don't know if the new code will work or not yet, you can
+        experiment around while still maintaining and fixing bugs in the master branch until the new code is
+        ready to go.
