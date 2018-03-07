@@ -34,3 +34,10 @@ What is the result of merging two branches together? Why do we represent it in t
         Creates a new branch from the 2 original branches that have the 2 original branches as parents.
         We diagram it that way because it allows us to keep track of how the 2 branches developed
         before the merge.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+        It is great to be able to do this automatically so that you do not have to sift through
+        code changes each time. It definitely saves some time. But the cons are that you do
+        have to sift through changes if there is ambiguity. That also seems like a pro at times
+        though.
